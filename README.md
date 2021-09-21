@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+
 
 I'm
 Full Stack Solution Architect
